@@ -1,6 +1,6 @@
 # AlexGWasp
 
-[Go to Blog](https://alexgwasp.com/)
+[Go to Blog](http://alexgwasp.com/)
 
 This repository represents my blog, where I write about IT technologies I learned throughout my professional life.
 
